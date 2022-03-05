@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-05T14:29:21.330Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="QA_B87qi8N6M4MgfOT4h" version="16.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-05T14:35:03.772Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="Qxiczlck1hqO66VbxWFB" version="16.6.5" type="github">
   <diagram id="q_7db5zlDjR9PL1bmyM5" name="Page-1">
     <mxGraphModel dx="1038" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -29,6 +29,27 @@
             <Array as="points">
               <mxPoint x="510" y="270" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ge-XKTXHq-U5XAmgt22h-8" value="withdraw money" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="315" y="530" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ge-XKTXHq-U5XAmgt22h-9" value="withdraw dirhams" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="95" y="700" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Ge-XKTXHq-U5XAmgt22h-10" value="withdraw dollars" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="570" y="700" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Ge-XKTXHq-U5XAmgt22h-11" value="extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=20;exitX=0.628;exitY=-0.051;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Ge-XKTXHq-U5XAmgt22h-9" target="Ge-XKTXHq-U5XAmgt22h-8">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="240" y="680" as="sourcePoint" />
+            <mxPoint x="400" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ge-XKTXHq-U5XAmgt22h-12" value="extends" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=20;entryX=0.781;entryY=0.96;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Ge-XKTXHq-U5XAmgt22h-10" target="Ge-XKTXHq-U5XAmgt22h-8">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="610" y="690" as="sourcePoint" />
+            <mxPoint x="500" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
