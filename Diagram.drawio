@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-18T10:52:54.339Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="RQAbVxMdcHziHgoDZZvp" version="17.1.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-03-18T10:57:57.074Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="XVmdPR5zCrY91tr1TosI" version="17.1.3" type="github" pages="2">
   <diagram id="q_7db5zlDjR9PL1bmyM5" name="Use Case">
     <mxGraphModel dx="1038" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -185,17 +185,20 @@
             <mxRectangle x="345" y="10" width="120" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ml7uzIg0lsFgq7cZ8sFy-3" value="numero&#xa;solde&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=23;" vertex="1" parent="Ml7uzIg0lsFgq7cZ8sFy-2">
+        <mxCell id="Ml7uzIg0lsFgq7cZ8sFy-3" value="+ numero&#xa;+ solde&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=23;" vertex="1" parent="Ml7uzIg0lsFgq7cZ8sFy-2">
           <mxGeometry y="50" width="270" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Ml7uzIg0lsFgq7cZ8sFy-4" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;fontSize=23;" vertex="1" parent="Ml7uzIg0lsFgq7cZ8sFy-2">
           <mxGeometry y="150" width="270" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="Ml7uzIg0lsFgq7cZ8sFy-5" value="effectuerVirement()&#xa;getSolde()&#xa;setSolde()&#xa;getNumero()&#xa;setNumero()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=23;" vertex="1" parent="Ml7uzIg0lsFgq7cZ8sFy-2">
+        <mxCell id="Ml7uzIg0lsFgq7cZ8sFy-5" value="+ effectuerVirement()&#xa;+ getSolde()&#xa;-  setSolde()&#xa;+ getNumero()&#xa;-  setNumero()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=23;" vertex="1" parent="Ml7uzIg0lsFgq7cZ8sFy-2">
           <mxGeometry y="158" width="270" height="192" as="geometry" />
         </mxCell>
         <mxCell id="Ml7uzIg0lsFgq7cZ8sFy-6" value="Class Diagram" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=23;" vertex="1" parent="Ml7uzIg0lsFgq7cZ8sFy-1">
           <mxGeometry x="100" y="40" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Ml7uzIg0lsFgq7cZ8sFy-7" value="+ public&lt;br&gt;- private&lt;br&gt;# protected" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;" vertex="1" parent="Ml7uzIg0lsFgq7cZ8sFy-1">
+          <mxGeometry x="60" y="130" width="160" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
