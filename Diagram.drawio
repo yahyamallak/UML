@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-22T09:05:58.431Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="uXsbn9we6QXFMpJ4hTHz" version="17.1.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-03-22T09:53:41.598Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="22clcex6ArZ_9zd5DW3d" version="17.1.3" type="github" pages="5">
   <diagram id="q_7db5zlDjR9PL1bmyM5" name="Use Case">
     <mxGraphModel dx="1038" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -570,6 +570,14 @@
             <mxPoint x="720" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="42Pdg5jc6nxgbDBUH1uC" name="Collaboration">
+    <mxGraphModel dx="1038" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="BR4vxyUGy3MEE8K81mfS-0" />
+        <mxCell id="BR4vxyUGy3MEE8K81mfS-1" parent="BR4vxyUGy3MEE8K81mfS-0" />
       </root>
     </mxGraphModel>
   </diagram>
