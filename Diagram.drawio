@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-08T02:11:28.231Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="P-e5ncp5RDmUNNdq4U0w" version="17.4.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-04-08T02:13:40.453Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="hMjot_Ptb1eB8O3Bw189" version="17.4.0" type="github" pages="6">
   <diagram id="q_7db5zlDjR9PL1bmyM5" name="Use Case">
     <mxGraphModel dx="1038" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -696,6 +696,18 @@
             <mxPoint x="400" y="480" as="sourcePoint" />
             <mxPoint x="450" y="430" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="vgHCl2NuE5b-uQAdi4C_-12" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;fontSize=15;" vertex="1" parent="fGpw-jBrRc1YT1qkoAlb-1">
+          <mxGeometry x="30" y="260" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vgHCl2NuE5b-uQAdi4C_-14" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;fontSize=15;" vertex="1" parent="fGpw-jBrRc1YT1qkoAlb-1">
+          <mxGeometry x="30" y="326" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vgHCl2NuE5b-uQAdi4C_-15" value="Start" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=15;" vertex="1" parent="fGpw-jBrRc1YT1qkoAlb-1">
+          <mxGeometry x="60" y="262" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="vgHCl2NuE5b-uQAdi4C_-16" value="End" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=15;" vertex="1" parent="fGpw-jBrRc1YT1qkoAlb-1">
+          <mxGeometry x="60" y="326" width="80" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
