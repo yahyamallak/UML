@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-10T07:02:11.299Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="1_l0Z0Snt-6uigjZvfMr" version="17.4.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-04-10T07:21:20.784Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="yPJgnoNggyfC-Sw9NaHY" version="17.4.1" type="github" pages="7">
   <diagram id="q_7db5zlDjR9PL1bmyM5" name="Use Case">
     <mxGraphModel dx="1038" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -905,9 +905,6 @@
         <mxCell id="GNmlhJ03XVL68K0wEwOV-10" value="voir notaire" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="535" y="275" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GNmlhJ03XVL68K0wEwOV-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="480" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="GNmlhJ03XVL68K0wEwOV-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="480" width="120" height="60" as="geometry" />
         </mxCell>
@@ -956,13 +953,10 @@
         <mxCell id="GNmlhJ03XVL68K0wEwOV-20" value="voir banquier" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="535" y="495" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GNmlhJ03XVL68K0wEwOV-21" value="chercher location" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="77.5" y="495" width="125" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="GNmlhJ03XVL68K0wEwOV-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GNmlhJ03XVL68K0wEwOV-16" target="GNmlhJ03XVL68K0wEwOV-11">
+        <mxCell id="GNmlhJ03XVL68K0wEwOV-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GNmlhJ03XVL68K0wEwOV-16" target="GNmlhJ03XVL68K0wEwOV-28">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="400" as="sourcePoint" />
-            <mxPoint x="90" y="400" as="targetPoint" />
+            <mxPoint x="140" y="480" as="targetPoint" />
             <Array as="points">
               <mxPoint x="140" y="400" />
             </Array>
@@ -973,6 +967,25 @@
         </mxCell>
         <mxCell id="GNmlhJ03XVL68K0wEwOV-24" value="[ trop cher ]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="370" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNmlhJ03XVL68K0wEwOV-25" value="The Activity diagram is a simplified version of transition state diagram" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="10" width="770" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNmlhJ03XVL68K0wEwOV-27" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="100" y="115" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNmlhJ03XVL68K0wEwOV-28" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="125" y="489" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNmlhJ03XVL68K0wEwOV-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="GNmlhJ03XVL68K0wEwOV-12" target="GNmlhJ03XVL68K0wEwOV-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="560" as="sourcePoint" />
+            <mxPoint x="140" y="528" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="560" />
+              <mxPoint x="140" y="560" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
